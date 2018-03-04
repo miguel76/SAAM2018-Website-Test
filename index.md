@@ -1,15 +1,22 @@
 ---
-title: Semantic Applications for Audio and Music - SAAM 2018
+layout: default
+title: Semantic Applications for Audio and Music
 ---
+#### Important Dates
+- Submission deadline: to be defined...
+- Workshop: half day, either the 8th or 9th of October, 2018
 
-## Logistics
+#### Venue
+[Asilomar Conference Grounds](https://www.visitasilomar.com/)
+in [Monterey, California, USA](https://goo.gl/maps/AxGeD75finr),
+colocated with [the 17th International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/)
 
-## Organizers
+#### Organizers
 - Kevin Page
 - Gyorgy Fazekas
 - Sean Bechhofer
 
-## Description
+#### Description
 Music provides a fascinating and challenging field for the application of Semantic Web technologies. Music is culture.
 
 Yet as knowledge, music takes fundamentally different forms: as digital audio waveforms recording a performance (e.g. MP3); symbolic notation prescribing a work (scores, Music Encoding Initiative); instructions for synthesising or manipulating sounds (MIDI, Digital Audio Workstations); catalogues of performance or thematic aggregations (playlists, setlists); psychological responses to listening; and as an experienced and interpretable artform.
